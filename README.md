@@ -1,2 +1,2 @@
-# hello-world
-Addition of two 3 * 4 matrices
+# Addition of two 3 * 4 matrices
+
