@@ -1,7 +1,5 @@
 package saeedi;
 import java.util.Scanner;
-import java.util.Arrays;         //مرتب سازی
-import java.text.DecimalFormat;  //ممیز گذاری
     public class Main{
         public static void main  (String[] args) {
             Scanner input = new Scanner (System.in);
